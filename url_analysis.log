@@ -1,0 +1,7 @@
+ERROR:root:Error analyzing URL http://asesoresvelfit.com/media/datacredito.co/: <urlopen error [Errno 11001] getaddrinfo failed>
+ERROR:root:Error: 403 while checking domain reputation for http://tinyurl.com/kjmmw57
+ERROR:root:Error: 403 while checking domain reputation for http://www.liquidgeneration.com/
+ERROR:root:Error: 403 while checking domain reputation for https://tryhackme.com/r/room/basicpentestingjt
+ERROR:root:Error analyzing URL http://133.130.103.10/24/sicredi/psmlId/31/paneid/index.htm: HTTP Error 404: Not Found
+ERROR:root:Error analyzing URL https://staticmail.000webhostapp.com/: HTTP Error 410: Gone
+ERROR:root:Error analyzing URL http://cartaopremiadosicoob.com: <urlopen error [Errno 11001] getaddrinfo failed>
